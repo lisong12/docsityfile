@@ -46,4 +46,4 @@
         required: false,
         default: ""
       },
-    },
+    }
