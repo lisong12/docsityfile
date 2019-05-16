@@ -1,5 +1,6 @@
 * [Markdown语法](/markdown.md)
 * 前端组件
+  * [组件安装引入](/front-end/import-file.md)
   * [注意事项组件](/front-end/announcements.md)
   * [基础数据下拉组件](/front-end/basic-info.md)
   * [基础数据带指派功能组件](/front-end/basic-infodz.md)
@@ -8,6 +9,7 @@
   * [审核组件](/front-end/check-bar.md)
   * [千位符格式化](/front-end/thousands-format.md)
   * [精确计算](/front-end/precision-calculatioin.md)
+  * [上机工艺弹窗组件](/front-end/craft-wrap.md)
 * 后端API
   * [基础资料](/back-end/basic-data.md)
   * [主数据](/back-end/main-data.md)
