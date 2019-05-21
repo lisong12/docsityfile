@@ -1,8 +1,8 @@
-# 千位符格式化 #
+# 自动添加货币符号 #
 
 ### 功能介绍 ### 
 
-	过滤器，自动给数字添加千位符
+	过滤器，自动在数字前面加上货币符号
 	
 
 ### 引入 ###
@@ -16,5 +16,9 @@
 
     
 ```html
-    <input type="text" :value="numbers | thousand">
+    <p>{{number | currency('$')}}</p>
+```
+
+```html
+	<p>{{number | thousand | currency('$')}}</p>
 ```

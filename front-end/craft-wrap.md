@@ -40,7 +40,7 @@
         required: true,
         default: false
       },
-      //父组件传进来的上机工艺
+      //父组件传进来的上机工艺值
       craftText:{
         type: String,
         required: false,
